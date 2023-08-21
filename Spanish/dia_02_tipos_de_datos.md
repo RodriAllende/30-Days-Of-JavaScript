@@ -309,7 +309,7 @@ let pais = "Finland";
 let ciudad = "Helsinki";
 let idioma = "JavaScript";
 let trabajo = "teacher";
-let edad = 250;
+let edad = 25;
 
 let nombreCompleto = primerNombre + espacio + apellido;
 let datosPersonaUno =
@@ -416,7 +416,7 @@ let pais = "Finland";
 let ciudad = "Helsinki";
 let idioma = "JavaScript";
 let trabajo = "profesora";
-let edad = 250;
+let edad = 25;
 let nombreCompleto = primerNombre + espacio + apellido;
 
 let personaInfoDos = `Soy ${nombreCompleto}. Tengo ${edad} años. Vivo en ${pais}.`; //ES6 - Método de interpolación de cadenas
